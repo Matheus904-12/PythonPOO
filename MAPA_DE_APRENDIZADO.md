@@ -1,0 +1,3 @@
+- [[03_handling_exceptions.py]] conectado a: [[Tratamento de Erros]] [[Loops e Repetição]]
+- [[03_handling_exceptions.py]] conectado a: [[Entrada de Dados]] [[Tratamento de Erros]] [[Loops e Repetição]]
+- [[04_functions_basics.py]] conectado a: [[Entrada de Dados]] [[Funções]]

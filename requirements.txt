@@ -1,0 +1,13 @@
+# Requirements para Qualidade e Testes de Código
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.1
+
+# Linter e Formatters
+black>=23.7.0
+flake8>=6.1.0
+isort>=5.12.0
+mypy>=1.5.0
+
+# Tipos Avançados e Validação
+pydantic>=2.4.0
